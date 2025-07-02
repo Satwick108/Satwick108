@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Satwick108
 - 👀 I’m interested in coding
 - 📚 Pursuing B. Tech
-- 🌱 I’m currently learning data analysis
 - 📫 My mail: sathwickbapatla108@gmail.com
 - 💡 Skill: I'm adaptable and flexible
 
